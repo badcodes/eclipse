@@ -1,0 +1,13 @@
+#Fri Oct 02 12:34:03 CST 2009
+PERL_EXECUTABLE="P\:\\program\\perl\\5.8.9\\bin\\MSWin32-x86-multi-thread\\perl.exe"
+SHOW_WARNINGS=1
+SYNTAX_VALIDATION_PREFERENCE=0
+ENABLE_DEBUG_CONSOLE=0
+eclipse.preferences.version=1
+sourceCriticLevel5=Warning
+sourceCriticLevel4=Warning
+sourceCriticLevel3=Warning
+sourceCriticLevel2=Warning
+sourceCriticLocation=/usr/bin/perlcritic
+sourceCriticLevel1=Warning
+USE_TAINT_MODE=0

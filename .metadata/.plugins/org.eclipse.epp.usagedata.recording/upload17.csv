@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.version,sysinfo,,,"1.0",1254457683765
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1254457683765
+java.vm.version,sysinfo,,,"14.1-b02",1254457683765
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254457688953
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254457694781
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1254457694843
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1254457694906
+opened,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ResourceNavigator",1254457694984
+opened,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.TaskList",1254457695046
+activated,perspective,org.epic.perleditor,0.5.38,"org.epic.core.Perspective",1254457695062
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.TaskList",1254457695140
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.perspectives.showPerspective",1254457695218
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.perspectives.showPerspective",1254457695218
+activated,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1254457705578
+started,bundle,org.eclipse.help.base,3.4.0.v200909170800,"org.eclipse.help.base",1254457709515
+started,bundle,org.eclipse.help.ui,3.4.1.v20090819_35x,"org.eclipse.help.ui",1254457709515
+started,bundle,org.eclipse.equinox.http.jetty,2.0.0.v20090520-1800,"org.eclipse.equinox.http.jetty",1254457709578
+started,bundle,org.eclipse.equinox.http.servlet,1.0.200.v20090520-1800,"org.eclipse.equinox.http.servlet",1254457709656
+started,bundle,org.eclipse.equinox.http.registry,1.0.200.v20090520-1800,"org.eclipse.equinox.http.registry",1254457709843
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254457710046
+started,bundle,org.eclipse.equinox.jsp.jasper.registry,1.0.100.v20090520-1800,"org.eclipse.equinox.jsp.jasper.registry",1254457710187
+started,bundle,org.eclipse.equinox.jsp.jasper,1.0.200.v20090520-1800,"org.eclipse.equinox.jsp.jasper",1254457710203
+started,bundle,org.eclipse.help.webapp,3.4.1.v20090819_35x,"org.eclipse.help.webapp",1254457711437
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254457762531
+error,log,,,"Invalid preference page path: JavaScript",1254457768812

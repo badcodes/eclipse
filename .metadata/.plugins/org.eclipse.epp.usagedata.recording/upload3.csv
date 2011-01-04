@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.jsdt.ui,1.0.200.v200905242047,"org.eclipse.wst.jsdt.ui",1254455704437
+os,sysinfo,,,"win32",1254455704437
+arch,sysinfo,,,"x86",1254455704437
+ws,sysinfo,,,"win32",1254455704437
+locale,sysinfo,,,"en_US",1254455704437
+processors,sysinfo,,,"4",1254455704437
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1254455704437
+java.runtime.version,sysinfo,,,"1.6.0_15-b03",1254455704437
+java.specification.name,sysinfo,,,"Java Platform API Specification",1254455704437
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1254455704437
+java.specification.version,sysinfo,,,"1.6",1254455704437
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1254455704437
+java.version,sysinfo,,,"1.6.0_15",1254455704437
+java.vm.info,sysinfo,,,"mixed mode, sharing",1254455704437
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1254455704437
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1254455704437
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1254455704437
+java.vm.specification.version,sysinfo,,,"1.0",1254455704437
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1254455704437
+java.vm.version,sysinfo,,,"14.1-b02",1254455704437
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1254455704515
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.tasks.ui",1254455704734
+started,bundle,org.eclipse.mylyn.team.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.team.ui",1254455704765
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1254455704781
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1254455704843

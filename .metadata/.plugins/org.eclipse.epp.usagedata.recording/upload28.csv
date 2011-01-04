@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.help,3.4.1.v20090805_35x,"org.eclipse.help",1254458508828
+started,bundle,org.eclipse.jface,3.5.1.M20090826-0800,"org.eclipse.jface",1254458508828
+started,bundle,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui",1254458508828
+started,bundle,org.eclipse.ui.forms,3.4.1.v20090714_35x,"org.eclipse.ui.forms",1254458508828
+started,bundle,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.ide",1254458508828
+started,bundle,org.eclipse.ui.navigator,3.4.1.M20090911-1550,"org.eclipse.ui.navigator",1254458508828
+started,bundle,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.resources",1254458508828
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1254458508828
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1254458508828
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1254458508828
+started,bundle,org.eclipse.wst.jsdt.core,1.0.201.v200908101420,"org.eclipse.wst.jsdt.core",1254458508828
+os,sysinfo,,,"win32",1254458508843
+arch,sysinfo,,,"x86",1254458508843
+ws,sysinfo,,,"win32",1254458508843
+locale,sysinfo,,,"en_US",1254458508843
+processors,sysinfo,,,"4",1254458508843
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1254458508843
+java.runtime.version,sysinfo,,,"1.6.0_15-b03",1254458508843
+java.specification.name,sysinfo,,,"Java Platform API Specification",1254458508843
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1254458508843
+java.specification.version,sysinfo,,,"1.6",1254458508843
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1254458508843
+java.version,sysinfo,,,"1.6.0_15",1254458508843
+java.vm.info,sysinfo,,,"mixed mode, sharing",1254458508843
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1254458508843

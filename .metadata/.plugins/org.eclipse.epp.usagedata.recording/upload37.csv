@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,5.0.100.200909110608,"org.eclipse.cdt.managedbuilder.gnu.ui",1254461096625
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254461097140
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1254461139718
+started,bundle,org.eclipse.cdt.make.core,6.0.0.200909110608,"org.eclipse.cdt.make.core",1254461139859
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1254461140093
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254461149015
+opened,view,org.eclipse.ui.console,,"org.eclipse.ui.console.ConsoleView",1254461149437
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1254461150546
+started,bundle,org.eclipse.nab.core,0.9.9.200806181757,"org.eclipse.nab.core",1254461157765
+stopped,bundle,org.eclipse.nab.mwt.jni,3.97.12.200806181757,"org.eclipse.nab.mwt.jni",1254461157859
+stopped,bundle,org.eclipse.nab.mwt,0.9.9.200806181757,"org.eclipse.nab.mwt",1254461157859
+error,log,,,"Plug-in org.eclipse.nab.mwt was unable to load class org.eclipse.nab.mwt.ab.core.MwtSourceDecorator.",1254461157875
+started,bundle,org.eclipse.search,3.5.1.r351_v20090708-0800,"org.eclipse.search",1254461160109
+started,bundle,org.eclipse.compare.core,3.5.0.I20090430-0408,"org.eclipse.compare.core",1254461161953
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1254461162031
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1254461162609
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1254461163921
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.binaryEditor",1254461172484
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.binaryEditor",1254461172812
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1254461175203
+closed,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.binaryEditor",1254461175218
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1254461185296
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1254461185515
+activated,view,org.eclipse.ui.console,,"org.eclipse.ui.console.ConsoleView",1254461189343
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1254461189609
